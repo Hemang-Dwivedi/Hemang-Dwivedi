@@ -1,4 +1,4 @@
-# Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I amHemang Dwivedi
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px" width="30px">, I'm Hemang Dwivedi</h1>
 
 👋 Hi there! I'm Hemang Dwivedi, an aspiring software developer from Dhankewadi, Katraj, Pune.
 
