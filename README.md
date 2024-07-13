@@ -20,10 +20,6 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch
 
-I'm always eager to learn new technologies and collaborate on interesting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hemang-dwivedi-231b941b2/).
+I'm always eager to learn new technologies and collaborate on interesting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hemang-dwivedi/).
 
 Let's build something amazing together!
-
-## GitHub Stats
-
-![Hemang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemang-Dwivedi&show_icons=true&theme=radical)
